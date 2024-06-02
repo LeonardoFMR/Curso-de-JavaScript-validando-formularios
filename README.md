@@ -1,3 +1,13 @@
+# Curso-de-JavaScript-validando-formularios
+
+
+
+## Tecnologías utilizadas durante el curso
+* JavaScript
+
+## Tecnologías utilizadas en el proyecto
+* HTML
+* CSS
 Anotaciones importantes realizadas durante el curso:
 
 Tipo	Descripción
@@ -15,9 +25,4 @@ number	Permite valores numéricos. Se puede restringir los números aceptados us
 tel	Permite el ingreso de números telefónicos.
 
 
-## Tecnologías utilizadas durante el curso
-* JavaScript
 
-## Tecnologías utilizadas en el proyecto
-* HTML
-* CSS
