@@ -2,13 +2,12 @@
 
 
 
-## Tecnologías utilizadas durante el curso
+## Tecnologías utilizadas durante el curso y proycto:
 * JavaScript
-
-## Tecnologías utilizadas en el proyecto
 * HTML
 * CSS
-Anotaciones importantes realizadas durante el curso:
+
+### Anotaciones importantes realizadas durante el curso:
 
 Tipo	Descripción
 text	Define un campo de una sola línea de texto.
