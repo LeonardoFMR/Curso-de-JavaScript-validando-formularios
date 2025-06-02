@@ -1,27 +1,44 @@
-# Curso-de-JavaScript-validando-formularios
+# 📌 JavaScript: Validando formularios
 
+---
 
+## 📂 Acerca del repositorio
 
-## Tecnologías utilizadas durante el curso y proycto:
-* JavaScript
-* HTML
-* CSS
+Este proyecto fue desarrollado como parte del curso **JavaScript: Validando formularios** de **Alura LATAM**.  
+El objetivo principal fue implementar validaciones personalizadas en formularios utilizando JavaScript, mejorando la experiencia del usuario y asegurando la integridad de los datos ingresados.
 
-### Anotaciones importantes realizadas durante el curso:
+---
 
-Tipo	Descripción
-text	Define un campo de una sola línea de texto.
-email	Para contener direcciones de correo electrónico.
-password	Define un campo para contraseñas.
-button	Define un botón.
-checkbox	Permite seleccionar varias opciones o ninguna.
-radio	Permite seleccionar una opción entre varias.
-file	Define un campo para subir ficheros.
-date	Permite seleccionar fechas.
-submit	Define un botón para enviar los datos del formulario.
-reset	Define un botón para resetear todos los valores del formulario a los valores por defecto.
-number	Permite valores numéricos. Se puede restringir los números aceptados usando algunos atributos.
-tel	Permite el ingreso de números telefónicos.
+## 🛠️ Tecnologías utilizadas
 
+- HTML  
+- CSS  
+- JavaScript
 
+---
 
+## ⚙️ Funcionalidades implementadas
+
+- Validaciones de campos utilizando atributos de HTML5.  
+- Validaciones personalizadas con JavaScript para campos como CPF y fecha de nacimiento.  
+- Mensajes de error personalizados según el tipo de validación.  
+- Integración de la cámara web para capturar fotos del usuario.  
+- Almacenamiento y edición de datos utilizando `localStorage`.
+
+---
+
+## 🚀 Aprendizajes
+
+Durante el desarrollo, aprendí o reforcé conocimientos en:
+
+- Aplicación de atributos de validación en HTML5.  
+- Creación de funciones de validación personalizadas en JavaScript.  
+- Uso de expresiones regulares para validar formatos específicos.  
+- Manejo de la API de la cámara web en el navegador.  
+- Almacenamiento y recuperación de datos en el navegador con `localStorage`.
+
+---
+
+## 🎯 Conclusión
+
+Este proyecto me permitió profundizar en las técnicas de validación de formularios, mejorando la interacción con el usuario y asegurando la calidad de los datos ingresados.
